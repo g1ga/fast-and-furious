@@ -12,7 +12,7 @@ namespace DockManager
         {
             InitializeComponent();
 
-            //DockingManager.Theme = new MetroTheme();
+            DockingManager.Theme = new MetroTheme();
         }
     }
 }
